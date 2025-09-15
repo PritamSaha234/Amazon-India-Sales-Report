@@ -43,3 +43,24 @@ Amazon India wants to create its sales report. Using this report, Amazon intends
 ### Save the Results
 - Saved every query as a View so they can be used again easily.
 - These results can also be shown in dashboards using Power BI or Tableau.
+
+## Attachment
+<a href = "https://github.com/PritamSaha234/Amazon-India-Sales-Report/blob/main/amazon.sql">SQL File</a>
+
+## Project Insights
+- Sales are mostly coming from a few top categories (T-shirt, Shirt, Blazer).
+- Some cities and states buy a lot more than others.
+- Most orders get shipped, but a few still get cancelled.
+- Amazon-fulfilled orders are usually more reliable.
+- B2B orders are fewer but give higher sales.
+- A few couriers handle most of the orders.
+
+## Conclusion
+The sales are not the same everywhere. Some products, places, and couriers do much better than others. Cancellations are still happening, but overall, most orders get shipped.
+
+## Recommendations
+- Focus more on top-performing categories and states to grow sales.
+- Work with merchants to improve fulfilment quality and reduce cancellations.
+- Build stronger partnerships with the couriers who deliver the most successfully.
+- Track day-to-day sales patterns to plan promotions on high-demand days.
+- Explore new ways to increase sales in low-performing categories and locations.
