@@ -4,7 +4,7 @@
 Amazon India wants to create its sales report. Using this report, Amazon intends to analyze the sales trends, top categories, order status, fulfillment performance, and customer buying patterns. The goal is to make sales trends easy to understand and provide a clear view to the stakeholders.
 
 ## Dataset
-<a href = "https://github.com/PritamSaha234/Amazon-India-Sales-Report/blob/main/Amazon%20-Sales-Report.xlsx">Dataset</a>
+<a href = "https://github.com/PritamSaha234/Amazon-India-Sales-Report/blob/main/Amazon%20-Sales.xlsx">Dataset</a>
 
 ## Questions (KPIs)
 ### SQL Questions:
@@ -64,3 +64,5 @@ The sales are not the same everywhere. Some products, places, and couriers do mu
 - Build stronger partnerships with the couriers who deliver the most successfully.
 - Track day-to-day sales patterns to plan promotions on high-demand days.
 - Explore new ways to increase sales in low-performing categories and locations.
+- Since B2B brings in good sales, create special offers or discounts for bulk buyers.
+- Invest more in marketing and faster delivery in the top states and cities.
